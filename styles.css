@@ -79,7 +79,7 @@ ul {
     #navbar {
         grid-template-columns: 100%;
         justify-content: center;
-        height: min-content;
+        height: auto;
     }
 
     #main-doc {
