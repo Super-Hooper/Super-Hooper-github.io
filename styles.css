@@ -20,6 +20,7 @@ body {
     color: white;
     text-decoration: none;
     box-sizing: border-box;
+    height: 50px;
 }
 
 .menulink:hover {
@@ -78,7 +79,7 @@ ul {
     #navbar {
         grid-template-columns: 100%;
         justify-content: center;
-        height: min-content;
+        height: auto;
     }
 
     #main-doc {
